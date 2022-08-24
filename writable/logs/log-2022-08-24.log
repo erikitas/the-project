@@ -1,0 +1,98 @@
+CRITICAL - 2022-08-24 12:42:22 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:44:41 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:45:34 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:45:35 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:45:35 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:45:36 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:45:36 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:46:00 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:54:33 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:54:41 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:54:41 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:55:11 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-24 12:55:11 --> Call to a member function save() on null
+in APPPATH\Controllers\Produtos.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->gravarProduto('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-08-24 12:55:40 --> Column 'descricao' cannot be null
+ERROR - 2022-08-24 12:56:15 --> Column 'descricao' cannot be null
+ERROR - 2022-08-24 12:56:56 --> Column 'descricao' cannot be null
+ERROR - 2022-08-24 12:58:08 --> Column 'descricao' cannot be null
+ERROR - 2022-08-24 12:58:10 --> Column 'descricao' cannot be null
+ERROR - 2022-08-24 12:58:14 --> Column 'descricao' cannot be null
+ERROR - 2022-08-24 12:59:23 --> Column 'descricao' cannot be null
